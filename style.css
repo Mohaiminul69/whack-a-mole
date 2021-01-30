@@ -79,6 +79,7 @@ h1 {
   cursor: pointer;
   background: black;
   color: white;
+  margin-left: 15rem;
 }
 
 .start_btn:hover {
