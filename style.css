@@ -71,7 +71,8 @@ h1 {
 }
 
 .start_btn {
-  padding: 2rem;
+  padding: 2rem 3rem;
+  font-size: 2rem;
   border-radius: 10px;
   border: none;
   font-weight: bold;
