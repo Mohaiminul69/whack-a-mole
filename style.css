@@ -77,9 +77,11 @@ h1 {
   font-weight: bold;
   transition: 0.3s;
   cursor: pointer;
+  background: black;
+  color: white;
 }
 
 .start_btn:hover {
-  background: black;
-  color: white;
+  background: white;
+  color: black;
 }
